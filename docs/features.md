@@ -1,9 +1,22 @@
 # Features
 
-- Add and manage inventory items
+## Core Features
+
+- Add new inventory items
+- View all inventory items in a dashboard
 - Define minimum stock thresholds
-- View real-time inventory status
+- Persistent storage using SQLite
+
+## Intelligent Agent Features
+
+- Automatic detection of low-stock items
 - Intelligent restocking recommendations
-- Rule-based decision-making agent
-- Simple and user-friendly web interface
-- Lightweight SQLite database
+- Decision-making logic based on inventory analysis
+- Eliminates the need for manual restocking calculations
+
+## User Experience Features
+
+- Clean and responsive UI
+- Visual indicators for stock health
+- Separate views for inventory and restock recommendations
+- Simple navigation for ease of use
